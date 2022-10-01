@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @vbindal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-https://leetcard.jacoblin.cool/vbindal027?theme=wtf&font=Mouse%20Memoirs
+## Hi there, I'm Vishal Bindal 👋
+
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning java, js
+- 💞️ I’m looking to collaborate on django project
+
+
+![Tr1ten's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vbindal)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/vbindal027?theme=light)
+
 <!---
 vbindal/vbindal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
