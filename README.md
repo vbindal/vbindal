@@ -1,8 +1,8 @@
 ## Hi there, I'm Vishal Bindal 👋
 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning node js,react
-- 💞️ I’m looking to collaborate on webd projects based on react and nodejs 
+- 👀 
+- 🌱 
+- 💞️ Problem Solver
 
 
 ![Tr1ten's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vbindal)
