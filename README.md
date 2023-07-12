@@ -1,7 +1,7 @@
 ## Hi there, I'm Vishal Bindal 👋
 
-- 👀 
-- 🌱 
+- 👀 node.js 
+- 🌱 Backend developer
 - 💞️ Problem Solver
 
 
