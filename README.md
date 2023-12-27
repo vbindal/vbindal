@@ -21,7 +21,7 @@
 
 <br><br>
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" height="300" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal" height="350" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal" height="400" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" width="333" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal"  width="333" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal" width="333" />
 </div>
