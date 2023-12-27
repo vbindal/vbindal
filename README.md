@@ -23,4 +23,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal"  width="400px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal"  width="400px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" width="400px"/>
+
