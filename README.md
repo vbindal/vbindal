@@ -19,8 +19,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vbindal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vbindal" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal" /></p>
+<br><br>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" height="300" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal" height="350" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal" height="400" width="300" />
+</div>
