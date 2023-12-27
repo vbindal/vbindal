@@ -20,9 +20,7 @@ ht<h1 align="center">Hi 👋, I'm Vishal Bindal</h1>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vbindal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vbindal" /></a></p><br><br>
 
 <br><br>
-<div style="text-align: center; height="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal" width="333" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal"  width="333" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" width="333" />
-</div>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal"  width="400px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal"  width="400px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" width="400px"/>
