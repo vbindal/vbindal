@@ -10,9 +10,7 @@
 <a href="https://linkedin.com/in/vishal-bindal-455765201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-bindal-455765201" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17513989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17513989" height="30" width="40" /></a>
 <a href="https://instagram.com/vbindal027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vbindal027" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vb231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vb231" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vb231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vb231" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vbindal051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vbindal051" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
