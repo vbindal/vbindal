@@ -11,6 +11,8 @@
 <a href="https://stackoverflow.com/users/17513989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17513989" height="30" width="40" /></a>
 <a href="https://instagram.com/vbindal027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vbindal027" height="30" width="40" /></a>
 
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +25,5 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbindal&" alt="vbindal"  width="400px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vbindal&show_icons=true&locale=en" alt="vbindal"  width="400px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbindal&show_icons=true&locale=en&layout=compact" alt="vbindal" width="400px"/>
 
